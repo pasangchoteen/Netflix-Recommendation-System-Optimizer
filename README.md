@@ -66,9 +66,9 @@ This project includes visualizations that highlight user engagement and show spe
 | Lorax      | 1              |                |                |                |                |                |
 | Lost       | -0.0015        | 1              |                |                |                |                |
 | Mad Men    | -0.0227        | -0.1290        | 1              |                |                |                |
-| Pony       | **0.5750**         | -0.0199        | -0.0235        | 1              |                |                |
-| Walking Dead| -0.0117       | 0.9533         | -0.2383        | -0.0176        | 1              |                |
-| Weeds      | -0.0194        | -0.1261        | 0.9049         | -0.0280        | -0.2141        | 1              |
+| Pony       | **_0.5750_**         | -0.0199        | -0.0235        | 1              |                |                |
+| Walking Dead| -0.0117       | **_0.9533_**         | -0.2383        | -0.0176        | 1              |                |
+| Weeds      | -0.0194        | -0.1261        | **_0.9049_**         | -0.0280        | -0.2141        | 1              |
 
 ## Analysis
 1. **Highly Recommended Shows**: Based on the correlation analysis, we can infer the following recommendations:
